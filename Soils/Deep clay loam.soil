@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoilDataTemplate>
+  <SoilType href="\\BNEFS04\Environment$\ECC Projects\Conics\PR102000\PR102473_1_Historic Reef WQ Studies_DMF\Project Data\HowLeaky\Data - Soils\ApSoil and Soil description collections\Cli-Mate database\Deep clay loam PAWC 250.soil" text="Deep clay loam" Description="Deep clay loamx" Comments="Clay loam over medium clay (Quorn No605) has been extracted from the ASOIL Database file &#xA;Soil Type: Clay loam over medium clay&#xA;&#xA;Data source: Characterisation 2008 by University of Adelaide CSIRO Sustainable Ecosystems and Rural Solutions Jamestown&#xA;Comments: LB code:QRN; David Maschmedt Description: 0-6cm Clay Loam 2.5YR 3/4;  6-45cm Medium-heavy Clay 2.5YR 3/3;  45-85cm Medium Clay 2.5YR 4/6;  85-135cm Medium Clay 2.5YR 4/8    Roots: Wheat 130cm. Moderate-high clay strongly duplex soil with moderate bulk den&#xA;">
+    <HorizonCount LastModified="19/06/2012">4</HorizonCount>
+    <SoilCaptions>Lay1</SoilCaptions>
+    <LayerDepth Count="4" value1="150" default1="100" value2="300" default2="200" value3="500" value4="1500" Units="mm" LastModified="25/10/2012"/>
+    <InSituAirDryMoist Count="4" value1="8" value2="15" value3="15" value4="15" Units="%Vol" LastModified="19/06/2012"/>
+    <WiltingPoint Count="4" value1="19" default1="17" value2="19" value3="21" value4="21" Units="%Vol" LastModified="02/07/2012"/>
+    <FieldCapacity Count="4" value1="35" default1="36" value2="35" value3="34" value4="39" Units="%Vol" LastModified="02/07/2012"/>
+    <SatWaterCont Count="4" value1="52" value2="47" value3="47" value4="44" Units="%Vol" LastModified="19/06/2012"/>
+    <MaxDailyDrainRate Count="4" value1="100" value2="50" value3="25" value4="25" default4="5" Units="mm/day" LastModified="24/10/2012"/>
+    <BulkDensity Count="4" value1="1.2" value2="1.3" value3="1.3" value4="1.4" Units="g/cm^3"/>
+    <PAWC Count="4" value1="24" default1="19" value2="24" default2="16" value3="26" default3="39" value4="180" Units="mm" Comments=" (Total = 254mm)"/>
+    <MaxDailyDrainVolume Count="4" value1="25.5" default1="16" value2="18" default2="12" value3="26" default3="39" value4="50" Units="mm"/>
+    <Stage2SoilEvap_Cona LastModified="29/06/2012">4</Stage2SoilEvap_Cona>
+    <Stage1SoilEvap_U LastModified="29/06/2012">6</Stage1SoilEvap_U>
+    <RunoffCurveNumber LastModified="29/06/2012">85</RunoffCurveNumber>
+    <RedInCNAtFullCover LastModified="29/06/2012">20</RedInCNAtFullCover>
+    <MaxRedInCNDueToTill LastModified="29/06/2012">0</MaxRedInCNDueToTill>
+    <RainToRemoveRough LastModified="29/06/2012">0</RainToRemoveRough>
+    <USLE_K LastModified="29/06/2012">0.14</USLE_K>
+    <USLE_P LastModified="29/06/2012">1</USLE_P>
+    <FieldSlope LastModified="29/06/2012">9</FieldSlope>
+    <SlopeLength LastModified="29/06/2012">22</SlopeLength>
+    <RillRatio LastModified="29/06/2012">0.5</RillRatio>
+    <SoilCrack state="false"/>
+    <MaxInfiltIntoCracks LastModified="29/06/2012">0</MaxInfiltIntoCracks>
+    <SedDelivRatio LastModified="29/06/2012">0.14</SedDelivRatio>
+    <OrganicCarbon LastModified="29/06/2012">1</OrganicCarbon>
+    <CarbonNitrogenRatio LastModified="29/06/2012">10</CarbonNitrogenRatio>
+    <NitrateMineralisationCoefficient LastModified="29/06/2012">0.00035</NitrateMineralisationCoefficient>
+  </SoilType>
+</SoilDataTemplate>

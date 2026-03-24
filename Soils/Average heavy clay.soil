@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoilDataTemplate>
+  <SoilType href="\\Bnefs04\environment$\ECC Projects\Conics\PR102000\PR102473_1_Historic Reef WQ Studies_DMF\Project Data\HowLeaky\Data - Soils\ApSoil and Soil description collections\Cli-Mate database\Average heavy clay PAWC 230.soil" text="Average heavy clay PAWC 230" Description="Average heavy clay PAWC 230" Comments="Black Vertosol-Irving (Greenmount No067) from ApSoil  &#xA;Not used in this analysis as used revised soil water from reworkded LL and PWC values&#xA;Not likely to impact to any degree&#xA;DMF 111021">
+    <HorizonCount LastModified="19/06/2012">4</HorizonCount>
+    <SoilCaptions>Lay1</SoilCaptions>
+    <LayerDepth Count="4" value1="100" value2="300" value3="600" value4="1200" Units="mm" LastModified="25/10/2012"/>
+    <InSituAirDryMoist Count="4" value1="14" value2="25" value3="31" value4="31" Units="%Vol" LastModified="19/06/2012"/>
+    <WiltingPoint Count="4" value1="28" value2="31" value3="31" value4="31" Units="%Vol" LastModified="20/10/2011"/>
+    <FieldCapacity Count="4" value1="51" default1="46" value2="51" value3="50" value4="49" Units="%Vol" LastModified="02/07/2012"/>
+    <SatWaterCont Count="4" value1="59" value2="55" default2="56" value3="54" default3="55" value4="54" Units="%Vol" LastModified="25/10/2012"/>
+    <MaxDailyDrainRate Count="4" value1="100" value2="100" value3="5" default3="25" value4="2" default4="1" Units="mm/day" LastModified="25/10/2012"/>
+    <BulkDensity Count="4" value1="1" value2="1.1" value3="1.2" value4="1.3" Units="g/cm^3" LastModified="19/06/2012"/>
+    <PAWC Count="4" value1="23" default1="18" value2="40" value3="57" value4="108" Units="mm" Comments=" (Total = 228mm)"/>
+    <MaxDailyDrainVolume Count="4" value1="8" default1="13" value2="8" default2="10" value3="12" default3="15" value4="30" Units="mm"/>
+    <Stage2SoilEvap_Cona LastModified="29/06/2012">3</Stage2SoilEvap_Cona>
+    <Stage1SoilEvap_U LastModified="29/06/2012">5</Stage1SoilEvap_U>
+    <RunoffCurveNumber LastModified="29/06/2012">73</RunoffCurveNumber>
+    <RedInCNAtFullCover default="20" LastModified="24/10/2012">10</RedInCNAtFullCover>
+    <MaxRedInCNDueToTill LastModified="29/06/2012">1</MaxRedInCNDueToTill>
+    <RainToRemoveRough LastModified="29/06/2012">1</RainToRemoveRough>
+    <USLE_K LastModified="29/06/2012">0.4</USLE_K>
+    <USLE_P LastModified="29/06/2012">1</USLE_P>
+    <FieldSlope LastModified="29/06/2012">9</FieldSlope>
+    <SlopeLength LastModified="29/06/2012">22</SlopeLength>
+    <RillRatio LastModified="29/06/2012">0.5</RillRatio>
+    <SoilCrack state="false"/>
+    <SedDelivRatio LastModified="29/06/2012">0.14</SedDelivRatio>
+    <OrganicCarbon LastModified="29/06/2012">1.2</OrganicCarbon>
+    <CarbonNitrogenRatio LastModified="29/06/2012">10</CarbonNitrogenRatio>
+    <NitrateMineralisationCoefficient LastModified="29/06/2012">0.00035</NitrateMineralisationCoefficient>
+  </SoilType>
+</SoilDataTemplate>

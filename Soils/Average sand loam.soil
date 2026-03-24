@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SoilDataTemplate>
+  <SoilType href="\\BNEFS04\Environment$\ECC Projects\Conics\PR102000\PR102473_1_Historic Reef WQ Studies_DMF\Project Data\HowLeaky\Data - Soils\ApSoil and Soil description collections\Cli-Mate database\Average sand loam PAWC 80.soil" text="Average sandy loam PAWC 80" Description="Average sandy loam PAWC 80" Comments="Based on but modified from Yellow Deep Sand (Buntine) has been extracted from the ASOIL &#xA;State:  Western Australia&#xA;Region:  Northern Region&#xA;Nearest Town:  Buntine&#xA;APSOIL number:  &#xA;Soil Type:  Yellow Deep Sand&#xA;Location accuracy:  Regional Soil Type&#xA;Data source:  YP. Collected by CSIRO as part of the GRDC SIP09 Precision Agriculture Project Comments:  Birch12&#xA;">
+    <HorizonCount>4</HorizonCount>
+    <SoilCaptions>Lay1</SoilCaptions>
+    <LayerDepth Count="4" value1="150" default1="100" value2="300" value3="700" value4="1500" Units="mm" LastModified="25/10/2012"/>
+    <InSituAirDryMoist Count="4" value1="3" value2="3" value3="3" value4="3" Units="%Vol"/>
+    <WiltingPoint Count="4" value1="4" value2="5" value3="5" value4="6" Units="%Vol"/>
+    <FieldCapacity Count="4" value1="10" value2="11" value3="11" value4="11" Units="%Vol"/>
+    <SatWaterCont Count="4" value1="15" default1="30" value2="15" default2="30" value3="15" default3="30" value4="15" default4="25" Units="%Vol" LastModified="24/10/2012"/>
+    <MaxDailyDrainRate Count="4" value1="50" value2="50" value3="50" value4="50" default4="10" Units="mm/day" LastModified="24/10/2012"/>
+    <BulkDensity Count="4" value1="1.6" value2="1.6" value3="1.6" value4="1.8" Units="g/cm^3"/>
+    <PAWC Count="4" value1="9" default1="6" value2="9" default2="12" value3="24" value4="40" Units="mm" Comments=" (Total = 82mm)"/>
+    <MaxDailyDrainVolume Count="4" value1="7.5" default1="20" value2="6" default2="38" value3="16" default3="76" value4="32" default4="112" Units="mm"/>
+    <Stage2SoilEvap_Cona LastModified="29/06/2012">3.5</Stage2SoilEvap_Cona>
+    <Stage1SoilEvap_U LastModified="29/06/2012">6</Stage1SoilEvap_U>
+    <RunoffCurveNumber default="60" LastModified="24/10/2012">65</RunoffCurveNumber>
+    <RedInCNAtFullCover default="20" LastModified="24/10/2012">5</RedInCNAtFullCover>
+    <MaxRedInCNDueToTill LastModified="29/06/2012">0</MaxRedInCNDueToTill>
+    <RainToRemoveRough LastModified="29/06/2012">0</RainToRemoveRough>
+    <USLE_K LastModified="29/06/2012">0.4</USLE_K>
+    <USLE_P LastModified="29/06/2012">1</USLE_P>
+    <FieldSlope LastModified="29/06/2012">9</FieldSlope>
+    <SlopeLength LastModified="29/06/2012">22</SlopeLength>
+    <RillRatio LastModified="29/06/2012">0.5</RillRatio>
+    <SoilCrack state="false"/>
+    <MaxInfiltIntoCracks LastModified="29/06/2012">0</MaxInfiltIntoCracks>
+    <SedDelivRatio LastModified="29/06/2012">0.15</SedDelivRatio>
+    <OrganicCarbon LastModified="29/06/2012">0.5</OrganicCarbon>
+    <CarbonNitrogenRatio LastModified="29/06/2012">10</CarbonNitrogenRatio>
+    <NitrateMineralisationCoefficient LastModified="29/06/2012">0.00035</NitrateMineralisationCoefficient>
+  </SoilType>
+</SoilDataTemplate>
